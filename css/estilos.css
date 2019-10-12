@@ -54,16 +54,21 @@ padding-right: 0; border-right: none;
 #web-design{
 	background: #908ef3;
 	overflow:auto;
+	padding-top: 50px;
+	padding-bottom: 60px;
+	font-family: 'PT Sans', sans-serif;
 }
 #web-design p{
-	padding-top: 5px;
+	padding-top: 10px;
 	font-size: 15pt;
 	color: #000000;
+	font-family: 'PT Sans', sans-serif;
+
 }
 #web-design h2{
 color: #ffffff;
 padding-top:30px;
-padding-bottom: 30px;
+padding-bottom: 40px;
 }
 #icons 
 {
@@ -72,13 +77,18 @@ padding-bottom: 30px;
 }
 #icons h2{
 color: #ffffff;
-padding-top:30px;
-padding-bottom: 30px;
+padding-top:70px;
+padding-bottom: 43px;
+}
+#icons h3{
+	padding-top: 30px;
 }
 #icons p{
-	padding-top: 5px;
-	font-size: 30px;
+	padding-bottom: 40px;
+	padding-top: 20px;
+	font-size: 15px;
 	color: #000000;
+    font-family: 'PT Sans', sans-serif;
 }
 #Illustrations
 {
@@ -87,12 +97,16 @@ padding-bottom: 30px;
 }
 #Illustrations h2{
 color: #ffffff;
-padding-top:30px;
+padding-top:60px;
 padding-bottom: 30px;
 }
-#Illustrations p{
+#Illustrations h3{
 	padding-top: 30px;
-	font-size: 30px;
+}
+#Illustrations p{
+	padding-bottom: 40px;
+	padding-top: 0px;
+	font-size: 15px;
 	color: #000000
 }#Miscellaneous
 {
@@ -101,13 +115,16 @@ overflow:auto
 }
 #Miscellaneous h2{
 color: #ffffff;
-padding-top:30px;
-padding-bottom: 30px;
+padding-top:70px;
+padding-bottom: 40px;
 }
-#Miscellaneous p
-{
+#Miscellaneous h3{
 	padding-top: 30px;
-	font-size: 30px;
+}
+#Miscellaneous p{
+	padding-bottom: 40px;
+	padding-top: 10px;
+	font-size: 15px;
 	color: #000000
 }
 #menu-footer
